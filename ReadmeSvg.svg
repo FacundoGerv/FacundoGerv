@@ -116,7 +116,7 @@
                     align-items: center;
                     height: 350px;
                     width: 100%;
-                    background-color: #171515;
+                    background-color: rgba(13,17,23,255);
                     padding: 10px 0;
                     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
                 }
